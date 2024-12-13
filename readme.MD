@@ -396,3 +396,10 @@ If I want to get the "HTTP/2 200", there is many way to do:
 ## Regex in Bash 
 
 ## Code template
+
+## References
+[Use Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+
+[Learn X in Y minutes](https://learnxinyminutes.com/bash/)
+
+[Bashscript cheatsheet](https://devhints.io/bash)
